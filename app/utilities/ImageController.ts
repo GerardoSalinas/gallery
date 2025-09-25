@@ -140,5 +140,4 @@ export default class ImageController {
         }
     }
 
-    public async uploadFile() {}
 }
